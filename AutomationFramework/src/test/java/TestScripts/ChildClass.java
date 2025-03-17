@@ -12,8 +12,7 @@ public class ChildClass  {
 
 		System.out.println(this.X);
 		System.out.println(this.Y);
-		// New change to reflect in git 
-		System.out.println(this.Y);
+		
 	}
 	
 
