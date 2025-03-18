@@ -1,19 +1,18 @@
 package TestScripts;
 
-public class ChildClass extends ParentClass {
+public class ChildClass  {
 	
 	int X= 100;
 	int Y =200;
 	
 	public void test() {
 		
-		System.out.println(super.A);
-		System.out.println(super.B);
+	//	System.out.println(super.A);
+		//System.out.println(super.B);
 
 		System.out.println(this.X);
 		System.out.println(this.Y);
-		// New change to reflect in git 
-		System.out.println(this.Y);
+		
 	}
 	
 
